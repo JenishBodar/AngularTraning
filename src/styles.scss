@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.nav{
+    display: flex;
+    justify-content: center;
+    li{
+        list-style-type: none;
+        margin: 10px;
+        a{
+            text-decoration: none;
+            margin: 10px;
+        }
+    }
+
+}
